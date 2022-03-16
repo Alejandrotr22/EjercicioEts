@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/alejandro/Git/EjercicioEts/proyecto/area/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Modulo1 del proyecto 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/alejandro/Git/EjercicioEts/proyecto/area/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Modulo1 del proyecto 1.0-SNAPSHOT API'
+es.iespuerto.alumno
+/home/alejandro/Git/EjercicioEts/proyecto/area/src/main/java = 1647449389058
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/overview-tree.html = 1647450041364
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/allclasses-frame.html = 1647450041380
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/allclasses-noframe.html = 1647450041380
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/index-all.html = 1647450041372
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/help-doc.html = 1647450041396
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/package-list = 1647450041300
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/constant-values.html = 1647450041336
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/index.html = 1647450041384
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/deprecated-list.html = 1647450041376
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/script.js = 1647450041400
+/home/alejandro/Git/EjercicioEts/proyecto/area/target/site/apidocs/stylesheet.css = 1647449979352
